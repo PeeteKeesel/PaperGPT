@@ -1,6 +1,6 @@
 <div align="center">
 
-# Paper Explainer
+#  Paper Explainer
 
 ![Python](https://img.shields.io/badge/python-3.11.4-green)
 
