@@ -1,4 +1,5 @@
-name: paper_explainer
+name: PaperGPT
+
 channels:
   - defaults
   - anaconda
@@ -14,5 +15,7 @@ dependencies:
   - ipython
   - jupyter
   - jupyterlab
-  - huggingface
+  - pytorch=2.1.0
   - transformers
+  - pypdf2
+  - openai=0.28.1
