@@ -1,0 +1,21 @@
+name: PaperGPT
+
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.11.4
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - ipython
+  - jupyter
+  - jupyterlab
+  - pytorch=2.1.0
+  - transformers
+  - pypdf2
+  - openai=0.28.1
